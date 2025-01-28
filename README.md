@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
 <h3 align="center">A passionate Junior Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Java,sql,html,css,js,reactjs**
+- 🌱 I’m currently learning **Java full stack developer**
 
-- 💬 Ask me about **Java,sql**
+- 💬 Ask me about **Java,sql,html,css,js**
 
 - 📫 How to reach me **pintukumar7542088@gmail.com**
 
