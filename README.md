@@ -6,13 +6,12 @@
 - 💬 Ask me about **Java,sql,html,css,js**
 
 - 📫 How to reach me **pintukumar7542088@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pintusharma45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pintusharma45" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pintu-kumar-06pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pintu-kumar-06pk" height="30" width="40" /></a>
-<a href="https://instagram.com/pintusharma06" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/519e2c21-91cc-4623-a25e-be2afd2fdf34)
-" alt="pintusharma06" height="30" width="40" /></a>
+<a href="https://instagram.com/pintusharma06" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram+logo&page=1&position=6&origin=tag&related_id=174855" alt="pintusharma06" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pintukumar45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pintukumar45" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pintukumar45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pintukumar45" height="30" width="40" /></a>
 </p>
