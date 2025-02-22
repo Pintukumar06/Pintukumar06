@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pintukumar45&label=Profile%20views&color=0e75b6&style=flat" alt="pintukumar45" /> </p>
 
-- 🌱 I’m currently learning **Java,sql,html,css,js,reactjs**
+- 🌱 I’m currently learning **Java Full Stack Developer**
 
-- 💬 Ask me about **Java,sql**
+- 💬 Ask me about **Java,sql,html,css,javascript**
 
 - 📫 How to reach me **pintukumar7542088@gmail.com**
 
